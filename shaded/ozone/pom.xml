@@ -70,7 +70,7 @@
           <groupId>org.apache.hadoop</groupId>
           <artifactId>hadoop-ozone-client</artifactId>
           <version>${ufs.ozone.version}</version>
-        </dependency>
+  	</dependency>
       </dependencies>
     </profile>
   </profiles>
